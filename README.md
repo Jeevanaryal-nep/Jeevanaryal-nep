@@ -41,7 +41,7 @@
 <br/>
 
 <a href="https://github.com/Jeevanaryal-nep">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AVS1508&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jeevanaryal-nep&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeevanaryal-nep&theme=buefy&layout=compact" />
 </a>
 
@@ -52,7 +52,7 @@
 <p align="center">
 <a href="https://www.aryaljeevan.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.aryaljeevan.com-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/jeevan-aryal-711284188//"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Jeevan%20Aryal%20Nep-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a>
+<a href="https://www.instagram.com/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram--blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:jeevan.aryal@cre8ive.com.au"><img alt="Email" src="https://img.shields.io/badge/Email-jeevan.aryal@cre8ive.com.au-blue?style=flat-square&logo=gmail"></a>
 </p>
 
