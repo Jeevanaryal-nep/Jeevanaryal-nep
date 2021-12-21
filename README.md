@@ -1,4 +1,4 @@
-
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Jeevanaryal-nep&show_icons=true&hide_border=true">
 
 <h2> Hey there! I'm Jeevan Aryal.</h2>
 
